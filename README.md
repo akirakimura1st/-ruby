@@ -4,4 +4,4 @@
 macで利用していただければ完成したあとKyoko様の麗しい声で、カップラーメンができたことをお知らせしてくれます。<br><br>
 最近気になってるカップラーメンは蒙古タンメン中本とかいうやつです。<br>
 なんかかなり辛いらしいですよ。<br>
->>http://www.moukotanmen-nakamoto.com/
+>http://www.moukotanmen-nakamoto.com/

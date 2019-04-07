@@ -10,18 +10,16 @@ t = 0
 puts "何分待たなきゃいけないカップラーメンですか？数字のみいれてくださいね。"
 i = gets.to_i
 puts i.to_s + "分ですね、かしこまりました。"
-sleep(5)
-
+sleep(1)
 # iに渡された値に60を掛ける 例：３*60=180
 x = i * 60
 puts "タイマーを開始します。"
 
 
 # タイマーfor文 sleepを利用して１秒毎にxの値に達するまでtを出力する
-for t in 1..x.to_i
+x.downto(0){|r|
     sleep(1)
-    puts t
-end
+    puts r}
 puts "カップラーメンが出来ました、食べましょう！"
 
 
